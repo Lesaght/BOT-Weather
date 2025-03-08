@@ -11,7 +11,7 @@
 ## 🛠 Установка
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [<repository_url>](https://github.com/Lesaght/BOT-Weather)
+   git clone https://github.com/Lesaght/BOT-Weather
    ```
 2. **Установите зависимости:**
    ```bash
